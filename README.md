@@ -6,8 +6,8 @@ Goal: Improve DOB process efficiency and City services by speeding up time to ap
 
 Objective of the predictive model: 
 
-Label new job filings that are predicted to take many plan exams to approve.
+1. Label new job filings that are predicted to take many plan exams to approve.
 
-Once job filings are labeled, they are given special consideration to speed up approval process.
-![image](https://user-images.githubusercontent.com/11237613/140521455-73416f8f-b801-40cf-9489-1ed5d36424c3.png)
+2. Once job filings are labeled, they are given special consideration to speed up approval process.
+
 
