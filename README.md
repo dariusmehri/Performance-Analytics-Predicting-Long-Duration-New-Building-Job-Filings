@@ -35,7 +35,9 @@ The independent variables that best predict a high number of plan exam include:
 
 ## Accuracy
 The model is 68% percent accurate (68 % of the time it makes a correct prediction)
+
 78% of the time it correctly predicts a job filing with a low approval duration (less than or equal to 5 plan exams)
+
 58% of the time it correctly predicts a job filing with a long approval duration (>5 plan exams)
 
 
