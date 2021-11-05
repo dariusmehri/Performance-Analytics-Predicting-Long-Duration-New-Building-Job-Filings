@@ -20,7 +20,19 @@ Gradient Boosted Decision Trees
 
 Tree algorithms are “learning” algorithms that comprise a series of logical decisions, similar to a flow chart, to determine which independent variables best predict the outcome variable.
 
-Interpretive model: the algorithm can output the independent variables most correlated with a high number of plan exams. The independent variables that are highly correlated with the outcome variables are ranked from high to low according to their predictive power
+Interpretive model: the algorithm can output the independent variables most correlated with a high number of plan exams. The independent variables that are highly correlated with the outcome variables are ranked from high to low according to their predictive power.
+
+
+## Results
+The independent variables that best predict a high number of plan exam include:
+1. Estimated DOB fee.
+2. Proposed zoning floor area.
+3. Proposed dwelling units.
+4. Residential detached or attached single family homes.
+5. Occupancy classification: Utility and Miscellaneous
+6. Floor area ratio (FAR)
+7. Occupancy classification: Residential apartment houses
+
 
 
 
