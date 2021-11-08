@@ -2,7 +2,7 @@
 
 Job filings that require numerous plan exams to approve consume scarce DOB resources and reduce the quality of City services.
 
-Goal: Improve Department of Building (DOB) process efficiency and City services by speeding up time to approve job filings.
+Goal: Improve Department of Building (DOB) process efficiency performance and City services by speeding up time to approve job filings.
 
 Objective of the predictive model: 
 
